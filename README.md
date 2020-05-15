@@ -10,4 +10,4 @@ Link: [ESP32 Rest API Server](https://www.survivingwithandroid.com/esp32-rest-ap
 
 ## Schematics
 
-![Web server running on ESP8266](https://github.com/survivingwithandroid/ESP8266-Web-server/blob/master/imgages/web-server_esp8266-1024x378.png)
+![Web server running on ESP8266](https://github.com/survivingwithandroid/ESP32-Rest-API-Server/blob/master/img/esp32-rest-api-server.png)
